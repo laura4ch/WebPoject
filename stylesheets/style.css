@@ -6,6 +6,14 @@ h1{
     font-variant: normal;
     border: 10px solid black;
 }
+
+h2{
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    font-variant: normal;
+}
+
 img {
     max-width: 100%;
     max-height: 100%;
